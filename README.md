@@ -7,7 +7,8 @@ This project has five parts:
 **Part 1: Exploratory Data Analysis**
 A dataframe is created. Data is split into training and test sets and standardized in a way that there is no leakage from the test set. Then, only the training set is used for visualization.
 
-![image](https://github.com/user-attachments/assets/870859dc-f93f-4cf1-a474-071fa1c213ab)
+
+![image](https://github.com/user-attachments/assets/e30822e1-e07a-4376-a696-d203907f46ce)
 
 
 
