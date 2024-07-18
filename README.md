@@ -1,4 +1,4 @@
-#Predicting Breast Cancer Using KNN
+#**Predicting Breast Cancer Using KNN
 
 In this project some of the basic components of machine learning methods are presented and examined. These components include feature selection based on correlation, feature extraction using principal component analysis (PCA) and hyperparameter tuning through cross-validation using packages available in scikit-learn. KNN is used in a k-fold cross-validation process to predict new cases of breast cancer. The breast cancer Wisconsin dataset is used for this purpose which is a classic and binary dataset available as one of the scikit-learn datasets. This project has five parts:
 
