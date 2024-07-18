@@ -9,7 +9,8 @@ A dataframe is created. Data is split into training and test sets and standardiz
 
 
 Check the codes in Spacecode
-![image](https://github.com/user-attachments/assets/e30822e1-e07a-4376-a696-d203907f46ce)
+
+![image](https://github.com/user-attachments/assets/daa8461d-24f0-4732-be9c-6fde9c7e69c0)
 
 
 
