@@ -16,12 +16,21 @@ Check the codes in Spacecode
 ## Visualizing pairplots for multiple features of the standardized data ##
 ![image](https://github.com/user-attachments/assets/55cbe3a5-5fe6-4a88-9de1-66ff5530d6d0)
 
+## KNN with cross-validation ##
+## Plot cross-validation scores for different number of neighbours##
+![image](https://github.com/user-attachments/assets/68d996af-f132-40be-a8c9-8a361580c977)
+
+## KNN with cross-validation using GridSearchCV##
+![image](https://github.com/user-attachments/assets/fddf06f9-8d42-4697-a780-01511b29e500)
+
+
+
 
 
 **Part 2: Using All Features**
 KNN with all the dataset features is used for predicting breast cancer. Each of part 2, 3 and 4 of this project has three sections. In the first section, for different number of neighbors, KNN is applied to the trainiing set without cross-validation, and the test score is reported for each number of neighbors. In the next section hyperparameter tuning is done to find the best number of neighbors in KNN using cross-validation for the training data. A loop over number of neighbors and cross_val_score is used in this section. The last step of part 2, 3 and 4 includes using GridSearchCV for cross-validation and hyperparameter tuning.
 
-#**Plot test scores for different number of neighbours without cross-validation**
+**Plot test scores for different number of neighbours without cross-validation**
 ![image](https://github.com/user-attachments/assets/ba4c52ef-4a9f-4955-81ad-826fb2ff0752)
 
 
