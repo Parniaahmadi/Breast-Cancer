@@ -7,6 +7,32 @@ This project has five parts:
 **Part 1: Exploratory Data Analysis**
 A dataframe is created. Data is split into training and test sets and standardized in a way that there is no leakage from the test set. Then, only the training set is used for visualization.
 
+![image](https://github.com/user-attachments/assets/6a13ef55-ca29-46e3-a9d8-15fefd3a9d83)
+
+
+![image](https://github.com/user-attachments/assets/6868b977-72eb-407a-a693-dad1e82474cb)
+
+
+![image](https://github.com/user-attachments/assets/2b9ee949-118b-459d-92de-c7d4077e3ee7)
+
+
+![image](https://github.com/user-attachments/assets/007c286f-daff-449a-ac01-99bebfde4bfa)
+
+
+![image](https://github.com/user-attachments/assets/cf05a40c-1552-48a1-a26a-2620138ad8e4)
+
+
+**Visualizing the standardized training data**
+
+
+![image](https://github.com/user-attachments/assets/e7abfbf4-6006-4472-be4c-3404f52971bf)
+
+
+
+
+
+
+
 
 Check the codes in Spacecode
 
